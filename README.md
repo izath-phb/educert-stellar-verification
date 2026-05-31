@@ -60,6 +60,12 @@ GAPUGHPKCGJWLKPQLQDINC5BEP3MASLNVIRHEZDVSDOBFWRWSY7WR5WZ
 Stellar Testnet
 ```
 
+## Stellar Testnet Deployment
+
+### Stellar Explorer
+
+![Stellar Explorer](screenshots/stellar-explorer.png)
+
 ### Explorer Link
 
 ```text
@@ -70,17 +76,21 @@ https://stellar.expert/explorer/testnet/contract/CBDHCQVGIOBSDFN2WR6Z435NBHWJR4K
 
 ## Frontend Preview
 
-### Home Page
+## Verify Certificate
 
-(Add your screenshot here)
+![Verify Certificate](screenshots/verify-certificate.png)
 
-### Certificate Verification
+## Upload & Issue Certificate
 
-(Add your screenshot here)
+![Upload Certificate](screenshots/upload-certificate.png)
 
-### Dashboard
+## Issuer Dashboard
 
-(Add your screenshot here)
+![Issuer Dashboard](screenshots/issuer-dashboard.png)
+
+## Stellar Blockchain Proof
+
+![Stellar Proof](screenshots/stellar-proof.png)
 
 ---
 
