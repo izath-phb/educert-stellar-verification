@@ -69,7 +69,7 @@ Network: Stellar Mainnet
 ### Explorer Link
 
 ```text
-https://stellar.expert/explorer/testnet/contract/CBDHCQVGIOBSDFN2WR6Z435NBHWJR4KV3SGQAPX2UUIPYFYLEOCAM44O
+https://stellar.expert/explorer/public/contract/CCUZOSAT5KAMPCTWY4YDUC7WTBAVFYRM6BN3ZUPSTTLHPIG65N6UU6OW
 ```
 
 ---
