@@ -45,7 +45,7 @@ This project aims to reduce fake certificates by providing immutable blockchain 
 ### Contract ID
 
 ```text
-CBDHCQVGIOBSDFN2WR6Z435NBHWJR4KV3SGQAPX2UUIPYFYLEOCAM44O
+CCUZOSAT5KAMPCTWY4YDUC7WTBAVFYRM6BN3ZUPSTTLHPIG65N6UU6OW
 ```
 
 ### Issuer Address
@@ -57,7 +57,7 @@ GAPUGHPKCGJWLKPQLQDINC5BEP3MASLNVIRHEZDVSDOBFWRWSY7WR5WZ
 ### Network
 
 ```text
-Stellar Testnet
+Network: Stellar Mainnet
 ```
 
 ## Stellar Testnet Deployment
