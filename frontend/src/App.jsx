@@ -3,12 +3,12 @@ import { QRCodeCanvas } from "qrcode.react";
 import "./App.css";
 
 const CONTRACT_ID =
-  "CBDHCQVGIOBSDFN2WR6Z435NBHWJR4KV3SGQAPX2UUIPYFYLEOCAM44O";
+  "CCUZOSAT5KAMPCTWY4YDUC7WTBAVFYRM6BN3ZUPSTTLHPIG65N6UU6OW";
 
 const ISSUER_ADDRESS =
   "GAPUGHPKCGJWLKPQLQDINC5BEP3MASLNVIRHEZDVSDOBFWRWSY7WR5WZ";
 
-const EXPLORER_URL = `https://stellar.expert/explorer/testnet/contract/${CONTRACT_ID}`;
+const EXPLORER_URL = `https://stellar.expert/explorer/public/contract/${CONTRACT_ID}`;
 
 const makeDemoImage = (title, name) =>
   `https://dummyimage.com/900x600/0f172a/ffffff.png&text=${encodeURIComponent(
